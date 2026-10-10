@@ -1,0 +1,14 @@
+ticker,company,weight
+AAPL,Apple,0.1
+MSFT,Microsoft,0.1
+NVDA,NVIDIA,0.1
+AMZN,Amazon,0.08
+GOOGL,Alphabet,0.08
+TSLA,Tesla,0.07
+JPM,JPMorgan,0.08
+BAC,Bank of America,0.07
+HDFCBANK,HDFC Bank,0.07
+RELIANCE,Reliance Industries,0.07
+INFY,Infosys,0.06
+TCS,Tata Consultancy Services,0.06
+EXM,Example Corp,0.06

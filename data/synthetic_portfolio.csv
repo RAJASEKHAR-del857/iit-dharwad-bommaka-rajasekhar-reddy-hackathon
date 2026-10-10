@@ -1,0 +1,8 @@
+asset_id,asset_name,asset_type,sector,market_value,duration,credit_spread_sensitivity,equity_beta
+A01,Technology Equity Basket,equity,technology,25.0,0,0,1.15
+A02,Bank Equity Basket,equity,financials,15.0,0,0,1.2
+A03,Energy Equity Basket,equity,energy,10.0,0,0,1.1
+A04,Investment Grade Bonds,bond,financials,20.0,4.5,0.65,0
+A05,Government Bond Portfolio,bond,government,15.0,6.0,0.05,0
+A06,Corporate Loan Book,loan,financials,10.0,2.0,0.8,0
+A07,Equity Index Derivative,derivative,technology,5.0,0,0,1.5

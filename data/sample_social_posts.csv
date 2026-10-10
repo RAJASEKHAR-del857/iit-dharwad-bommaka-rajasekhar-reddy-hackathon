@@ -1,0 +1,7 @@
+timestamp,source_name,text,entities,is_synthetic
+2026-10-10T10:00:00Z,Synthetic Social Stream,$NVDA demand looks strong after another revenue beat.,NVIDIA,true
+2026-10-10T10:02:00Z,Synthetic Social Stream,Worried about HDFC Bank credit quality after higher provisions.,HDFC Bank,true
+2026-10-10T10:04:00Z,Synthetic Social Stream,Apple's product launch is getting positive early feedback.,Apple,true
+2026-10-10T10:06:00Z,Synthetic Social Stream,Macro risk rising as inflation stays high and rates may increase.,,true
+2026-10-10T10:08:00Z,Synthetic Social Stream,Tesla delivery warning creates downside risk for the stock.,Tesla,true
+2026-10-10T10:10:00Z,Synthetic Social Stream,Microsoft cloud growth and strong profits improve the outlook.,Microsoft,true

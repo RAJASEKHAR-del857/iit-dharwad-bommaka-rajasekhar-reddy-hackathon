@@ -1,0 +1,17 @@
+text,expected_sentiment,expected_event
+Central bank signals an interest rate hike as inflation accelerates.,negative,macroeconomic
+Unexpected geopolitical attack triggers new sanctions.,negative,geopolitical
+Corporate borrower warns of default after major credit losses.,negative,credit_event
+Company announces acquisition of a logistics software startup.,neutral,merger_acquisition
+Technology firm launches a new cloud security product.,positive,product_launch
+Regulator opens an antitrust investigation and imposes a fine.,negative,regulatory_legal
+Company beats earnings expectations and reports strong profit growth.,positive,earnings_business
+The board held its regular meeting on Tuesday.,neutral,other
+War threatens shipping routes and new sanctions are announced.,negative,geopolitical
+Inflation falls and the central bank signals rate cuts.,positive,macroeconomic
+Lender reports rising bad loans and credit losses.,negative,credit_event
+Two firms agree to a merger after months of talks.,neutral,merger_acquisition
+Manufacturer unveils a new product with strong early demand.,positive,product_launch
+Court opens a regulatory investigation into the company.,negative,regulatory_legal
+Retailer reports record sales and improved profits.,positive,earnings_business
+The company published its annual office calendar.,neutral,other

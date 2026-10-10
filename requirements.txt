@@ -1,0 +1,5 @@
+-e .
+pytest>=8,<9
+httpx>=0.26,<1
+# Optional transformer NLP:
+# pip install -e ".[nlp]"

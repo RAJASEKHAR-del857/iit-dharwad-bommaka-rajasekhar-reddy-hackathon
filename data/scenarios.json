@@ -1,0 +1,21 @@
+{
+  "note": "All shocks are illustrative and synthetic.",
+  "geopolitical": {
+    "equity_shock": -0.1,
+    "credit_spread_shock_bps": 150,
+    "rate_shock_bps": 50,
+    "fx_shock": -0.03
+  },
+  "macroeconomic": {
+    "equity_shock": -0.08,
+    "credit_spread_shock_bps": 100,
+    "rate_shock_bps": -50,
+    "fx_shock": -0.01
+  },
+  "credit_event": {
+    "equity_shock": -0.05,
+    "credit_spread_shock_bps": 250,
+    "rate_shock_bps": 25,
+    "fx_shock": -0.01
+  }
+}

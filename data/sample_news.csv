@@ -1,0 +1,13 @@
+timestamp,source_name,text,entities,is_synthetic
+2026-10-10T09:00:00Z,Synthetic Financial Wire,HDFC Bank reports rising bad-loan provisions amid credit concerns.,HDFC Bank,true
+2026-10-10T09:05:00Z,Synthetic Financial Wire,NVIDIA beats quarterly revenue expectations as AI chip demand grows.,NVIDIA,true
+2026-10-10T09:10:00Z,Synthetic Financial Wire,Central bank signals a possible interest rate hike as inflation accelerates.,,true
+2026-10-10T09:15:00Z,Synthetic Financial Wire,Unexpected geopolitical escalation triggers new sanctions and threatens energy shipping routes.,,true
+2026-10-10T09:20:00Z,Synthetic Financial Wire,Regulator opens an antitrust investigation into a major technology company.,,true
+2026-10-10T09:25:00Z,Synthetic Financial Wire,Microsoft launches a new cloud security product with strong early demand.,Microsoft,true
+2026-10-10T09:30:00Z,Synthetic Financial Wire,Tesla shares fall after the company cuts its delivery outlook.,Tesla,true
+2026-10-10T09:35:00Z,Synthetic Financial Wire,Amazon announces acquisition of a logistics software startup.,Amazon,true
+2026-10-10T09:40:00Z,Synthetic Financial Wire,Apple reports record sales and improved operating profit.,Apple,true
+2026-10-10T09:45:00Z,Synthetic Financial Wire,Corporate bond issuer warns it may miss an upcoming debt payment.,,true
+2026-10-10T09:50:00Z,Synthetic Financial Wire,Oil prices rise sharply after a disruption to energy supply routes.,,true
+2026-10-10T09:55:00Z,Synthetic Financial Wire,Bank of America faces a lawsuit alleging misleading disclosures.,Bank of America,true
