@@ -4,8 +4,7 @@
 **College Email ID:** cs23bt065@iitdh.ac.in  
 **College / Campus:** IIT Dharwad  
 **Project Title:** Explainable Financial Event Intelligence and Portfolio Risk Simulation  
-**Demo Video Link:** Add your unlisted YouTube video URL before submission.  
-**Presentation:** [PDF](docs/presentation.pdf) | [PowerPoint](docs/presentation.pptx)
+**Demo Video Link:**   
 
 > **Disclaimer:** SentinelRisk AI is an educational prototype. All bundled portfolio holdings, example text, and labelled evaluation examples are synthetic. Stress scenarios are illustrative and are not financial forecasts or investment advice.
 
@@ -36,10 +35,6 @@ The system follows a modular pipeline:
 6. **Storage and serving:** Persists signals in SQLite and exposes functionality through FastAPI.
 7. **Downstream analysis:** Runs portfolio stress testing and index rebalancing.
 8. **Visualization and export:** Displays results in Streamlit and supports CSV/JSON exports.
-
-### Architecture diagram
-
-![SentinelRisk AI Architecture](docs/architecture.png)
 
 ### Technology stack
 
@@ -325,23 +320,6 @@ iit-dharwad-bommaka-rajasekhar-reddy-hackathon/
 
 Generated files and optional documentation may vary by the final repository version. Do not commit the virtual environment, Python cache files, or temporary build artifacts.
 
-## 10. Submission Checklist
-
-Before submitting the project:
-
-- [ ] Push the final project to a **public GitHub repository**.
-- [ ] Use the required repository naming convention.
-- [ ] Confirm that the README setup instructions match the actual dependency files.
-- [ ] Test installation, demo execution, and automated tests from a fresh environment.
-- [ ] Include all required synthetic CSV/JSON datasets and state their nature clearly.
-- [ ] Include `docs/presentation.pdf` with 5–7 slides and link it from the README.
-- [ ] Include `docs/architecture.png` and verify that it renders in GitHub.
-- [ ] Record the 10-minute demonstration and replace the video placeholder.
-- [ ] Test the repository and unlisted YouTube video links in a private browser window.
-- [ ] Ensure that the dashboard and API are ready for the live demonstration.
-- [ ] Be prepared to explain the impact-scoring approach, scenario assumptions, evaluation method, and limitations.
-- [ ] Disclose AI assistance honestly in accordance with the hackathon rules.
-
-## 11. License
+## 10. License
 
 This project is distributed under the MIT License. See [`LICENSE`](LICENSE) for the license text.
