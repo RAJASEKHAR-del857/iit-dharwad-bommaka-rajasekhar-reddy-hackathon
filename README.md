@@ -5,7 +5,9 @@
 **College / Campus:** IIT Dharwad  
 **Project Title:** Explainable Financial Event Intelligence and Portfolio Risk Simulation  
 **Demo Video Link:**   https://youtu.be/7WXwECJyK4Y
+
 **Slides Link:** https://docs.google.com/presentation/d/1DDQXfXF51nuMLyC04kPFGO4g-09fflEn/edit?usp=drive_link&ouid=101144988232155466935&rtpof=true&sd=true
+
 **Architecture Diagram Link:** https://docs.google.com/presentation/d/1DDQXfXF51nuMLyC04kPFGO4g-09fflEn/edit?usp=drive_link&ouid=101144988232155466935&rtpof=true&sd=true
 
 > **Disclaimer:** SentinelRisk AI is an educational prototype. All bundled portfolio holdings, example text, and labelled evaluation examples are synthetic. Stress scenarios are illustrative and are not financial forecasts or investment advice.
